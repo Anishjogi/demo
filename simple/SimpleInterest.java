@@ -9,5 +9,6 @@ class SimpleInterest {
         si = p * t * r / 100;
         System.out.println(si); // helo
         System.out.println("hello anish");
+        System.out.println("now i am in master branch");
     }
 }
