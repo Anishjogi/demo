@@ -11,5 +11,6 @@ class SimpleInterest {
         System.out.println("hello anish");
         System.out.println("main branch");
         System.out.println("main barnch 2");
+        System.out.println("main 3");
     }
 }
