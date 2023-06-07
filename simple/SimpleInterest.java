@@ -17,5 +17,6 @@ class SimpleInterest {
         System.out.println("now i am in master branch");
         System.out.println("master 2");
 >>>>>>> master
+    //master
     }
 }
