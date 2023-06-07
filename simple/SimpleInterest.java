@@ -10,5 +10,6 @@ class SimpleInterest {
         System.out.println(si); // helo
         System.out.println("hello anish");
         System.out.println("now i am in master branch");
+        System.out.println("master 2");
     }
 }
